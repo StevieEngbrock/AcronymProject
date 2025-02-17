@@ -131,11 +131,6 @@ Write acronyms for words using word lists.
     new from my acronyms. Pretty much all creativity is about combining or</br>
     modifying or combining existing things to make something new.
 
-    No creative work is made completely independently.</br>
-    All creative works are in some way influenced by other creative works</br>
-    that we come into contact with, as well as our social and cultural</br>
-    enviroment and other factors.</br>
-
     Please let me know if you should decide to make a derivitive copy of my
     acronyms.
 
@@ -148,8 +143,6 @@ Write acronyms for words using word lists.
 
     I haven't really gone out of my way to make my acronyms politically correct.</br>
     I think doing so could potentially constrain the creativity in my acronyms.</br>
-    Some of my acronyms might even be offensive to some people, but some people</br>
-    are easily offended and what offends one person might not offend someone else.</br>
 
     I can't please everyone, and if you should happen to want a politically correct</br>
     version of my acronyms or happen to believe that they should be politically correct</br>
@@ -157,7 +150,7 @@ Write acronyms for words using word lists.
 
     But please let me know if you are going to do so.
     
-14. ### Question
+13. ### Question
    
     Can I make your acronyms into a commercial work and sell them ?</br>
     
@@ -176,7 +169,7 @@ Write acronyms for words using word lists.
      it.
 
      If you would like to talk about including my acronyms in a commercial</br>
-     work please
+     work please let me know.
     
     
 
