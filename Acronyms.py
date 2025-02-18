@@ -214,15 +214,18 @@ abbrev = {
         "Denying Objectives"
     ],
 
-    "AS":[
-           "All Surrender"
-       ],
-
+ 
     "THIS": [
         "Thickly Hammering Into Silence",
        "Terrifically Humorous Idiosyncratic Stroboscopes",
        "Twilight Hallways Into Sheol"
     ],
+
+       "AS":[
+           "All Surrender",
+           "Ashtrays Survived"
+       ],
+
 
     "SHE": [
         "She Helps Elephants",
@@ -324,11 +327,14 @@ abbrev = {
 
     "THERE": [
         "The Hippo Excellently Races Excitedly",
+        "Theatrical Horses Elaborate Recorded Excursions",
+        "Theoretical Horseplay Eliminates Rebate's Effectiveness"
 
     ],
 
     "WHICH": [
-        "Why Have Irritating Children Happened"
+        "Why Have Irritating Children Happened",
+        "Windshields Have Insects Complaining Hourly"
     ],
 
     "CAN": [
@@ -402,11 +408,13 @@ abbrev = {
     ],
 
     "PEOPLE": [
-        "Penguins Examining Overpriced Percolating Laboratory Experiments"
+        "Penguins Examining Overpriced Percolating Laboratory Experiments",
+        "Perfect Experts Overthinking Proud Little Explainations"
     ],
 
     "SOME": [
-        "Sixteen Oversized Monsters Eating"
+        "Sixteen Oversized Monsters Eating",
+        "Sweet Obstacles Might Entice"
     ],
 
     "OUT": [
@@ -416,15 +424,18 @@ abbrev = {
     ],
 
     "GOOD": [
-        "Glorious Old Oval Door"
+        "Glorious Old Oval Door",
+         "Gratuitous Obstacles Often Deviate"
     ],
 
     "OTHER": [
-        "Overthinking Theoretical Hyperdrive Experiments Retroactively"
+        "Overthinking Theoretical Hyperdrive Experiments Retroactively",
+         "Opportunities That Hardly Ever Revisit"
     ],
 
     "YEAR": [
-        "You're Exaggerating About Reality"
+        "You're Exaggerating About Reality",
+        "Yogurt Examing Artificial Roses"
     ],
 
     "WELL": [
@@ -433,15 +444,18 @@ abbrev = {
     ],
 
     "BECAUSE": [
-        "Be Extra Cautious Agitating Unusual Sesame Experiments"
+        "Be Extra Cautious Agitating Unusual Sesame Experiments",
+        "Bankers Exhuming Corpora Awaiting Useful Salable Equity"
     ],
 
     "VERY": [
-        "Very Elderly Raccoons Yelling"
+        "Very Elderly Raccoons Yelling",
+        "Vigorous Eternal Reprimand Yesterday"
     ],
 
     "JUST": [
-        "Jubilant Ungula Sings Terribly"
+        "Jubilant Ungula Sings Terribly",
+        "Juggling Used Stinky Toes"
     ],
 
     "ATOMIC": [
@@ -453,87 +467,109 @@ abbrev = {
     ],
 
     "NO": [
-        "Nacelle Obliteration"
+        "Nacelle Obliteration",
+        "Needles Opinionating"
     ],
 
     "TAKE": [
-        "Tickling Assassins Kinda Embarrassingly"
+        "Tickling Assassins Kinda Embarrassingly",
+        "Tracking All Kindergarten Egotists",
+        "Tubas At Kitchen Embassies"
+        
     ],
 
     "COME": [
-        "Communist Ostriches Married Exorcists"
+        "Communist Ostriches Married Exorcists",
+        "Cranky Osiris Moves Egypt"
     ],
 
     "COULD": [
-        "Combinatoric Occultists Ultimately Like Dictionaries"
+        "Combinatoric Occultists Ultimately Like Dictionaries",
+        "Convenience Operates Until Likes Dictate"
     ],
 
     "USE": [
-        "Unusual Salubrious Elixirs"
+        "Unusual Salubrious Elixirs",
+        "Underneath Shoveled Employment"
     ],
 
     "WORK": [
-        "Working On Recalling Karma"
+        "Working On Recalling Karma",
+         "Worrying Over Rosary Key"
     ],
 
     "THEN": [
-        "That Has Elastic Noodles"
+        "That Has Elastic Noodles",
+        "Thoughtless Heads Extracting Nuptials"
     ],
 
     "NOW": [
-        "Nightly Obituary Work"
+        "Nightly Obituary Work",
+        "New Orange Wonders"
     ],
 
     "ALSO": [
-        "Alien Leaches Sacrificing Officials"
+        "Alien Leaches Sacrificing Officials",
+        "Amazing Lunches Shower Orphanages"
     ],
 
     "THAN": [
         "Thousands Have Absolutely Nothing",
         "Traveling, Having Another Name",
-        "Tornado Hell All Night"
+        "Tornado Hell All Night",
+        "Three Heads Are Nothing"
     ],
 
     "INTO": [
-        "I Neutralized Terrifying Octagons"
+        "I Neutralized Terrifying Octagons",
+        "Intruders Never Tabulating Obstacles"
     ],
 
     "ONLY": [
-        "Our Neighbors Liked Yo-yos"
+        "Our Neighbors Liked Yo-yos",
+        "Output Never Leaves You"
     ],
 
     "WANT": [
-        "What A Neat Truck"
+        "What A Neat Truck",
+        "Womb Attendees Nightly Trampling"
     ],
 
     "LOOK": [
-        "Landscapers Only Ordering Kamias"
+        "Landscapers Only Ordering Kamias",
+        "Ladybugs Obeying Observation Kiosks"
     ],
 
     "TWO": [
-        "Three Witches Online"
+        "Three Witches Online",
+        "Trading Weeds Occasionally"
     ],
 
     "NEW": [
-        "New Excellent Widget"
+        "New Excellent Widget",
+        "Nightly Enjoyable Whooshing"
     ],
 
     "GIVE": [
-        "Great Itching, Very Exasperating"
+        "Great Itching, Very Exasperating",
+        "Ghostly Ideograms Voyaging Eternally"
     ],
 
     "FIRST": [
         "Finally I Realized Subtle Transactions",
         "Feeling Irritable, Really Sorta Tired",
-        "First, I Renounced Santa Training"
+        "First, I Renounced Santa Training",
+        "Forgetting I Resisted State Troopers"
     ],
 
     "WAY": [
-        "Warp Array Yatronium"
+        "Warp Array Yatronium",
+        "Winking Ambiguity Yonder"
     ],
 
     "THING": [
-        "Tricky Haunted Infamous New Galoshes"
+        "Tricky Haunted Infamous New Galoshes",
+        "Trashy Houses Interest Nearby Gnomes"
     ],
 
     "FIND": [
