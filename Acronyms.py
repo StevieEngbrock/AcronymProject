@@ -214,6 +214,10 @@ abbrev = {
         "Denying Objectives"
     ],
 
+    "AS":[
+           "All Surrender"
+       ],
+
     "THIS": [
         "Thickly Hammering Into Silence",
        "Terrifically Humorous Idiosyncratic Stroboscopes",
@@ -374,20 +378,27 @@ abbrev = {
 
     "MAKE": [
         "Matthew Articulated Knots Erroneously",
+        "Men Arguing Kangaroo Estimations",
+        "Mistakes All Kings Esteem"
 
     ],
 
     "TIME": [
-        "They Ignore Machine Experiences",
+       "They Ignore Machine Experiences",
+       "Tripping Ignited Matches Expotential",
+       "Traveling Into Mediocre Existence"
+
 
     ],
 
     "SEE": [
-        "Seeing Extra-galactic Exoplanets"
+        "Seeing Extra-galactic Exoplanets",
+        "Several Earths Echoing"
     ],
 
     "UP": [
         "Unpopular Poltergeist",
+        "Used Populations"
     ],
 
     "PEOPLE": [
